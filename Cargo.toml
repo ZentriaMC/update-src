@@ -1,0 +1,7 @@
+[package]
+name = "update-src"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rnix = "0.10.1"
